@@ -1,4 +1,4 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/1_LRjLAzWqaLiYl4N5DZH8Kg.gif)](https://github.com/Fisayo6969)
+
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Agboola</h1>
 <h3 align="center">A Frontend developer with an equal love for Art and Design from Lagos, Nigeria.</h3>
 
@@ -27,6 +27,8 @@
 - 📫 How to reach me **wrld26993@gmail.com**
 
 - ⚡ Fun fact **I like to think of myself as a Unicorn Engineer. A Unicorn developer is Someone who designs and codes.**
+
+[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/1_LRjLAzWqaLiYl4N5DZH8Kg.gif)](https://github.com/Fisayo6969)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
