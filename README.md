@@ -51,6 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fisayo6969&" alt="fisayo6969" /></p>
 
-## Whoa!, is that not a snake eating my contribution graph? it must be pretty hungry :) 
+## Whoa!, that snake must be pretty hungry 
 
 ![snake gif](https://github.com/Fisayo6969/Fisayo6969/blob/output/github-contribution-grid-snake.gif)
