@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/999tweets_her" target="blank"><img src="https://img.shields.io/twitter/follow/999tweets_her?logo=twitter&style=for-the-badge" alt="999tweets_her" /></a> </p>
 
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" alt="coding" />
-
 - 🔭 I’m currently working on **Building a Music App in React Js**
 
 - 🌱 I’m currently learning **React , Node.js , Angular.js**
