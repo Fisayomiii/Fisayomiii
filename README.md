@@ -8,7 +8,6 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life products. </li>
   <li>👨‍💻 I work with <strong>javascript, reactJs , Angular.js and Nodejs</strong>.</li>
   <li>🔭 I’m currently learning  <strong>React , Node.js , Angular.js</strong></li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
@@ -16,9 +15,6 @@
   <li>👨‍💻 All of my software engineering projects are available at <strong><a href="https://github.com/Fisayo6969">https://github.com/Fisayo6969</a></strong>.</li>
   <li>💬 All of my Design projects are available at <strong><a href="https://www.behance.net/fisayomi"> https://www.behance.net/fisayomi</a></strong></li>
 </ul>
-
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/1_LRjLAzWqaLiYl4N5DZH8Kg.gif)](https://github.com/Fisayo6969)
-
 <h2>Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/oluwafisayomi-agboola-232226230"><img src="https://img.shields.io/badge/-Agboola%20Oluwafisayomi%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
