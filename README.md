@@ -8,8 +8,7 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>👨‍💻 I work with <strong>javascript, reactJs , Angular.js and Nodejs</strong>.</li>
-  <li>🔭 I’m currently learning  <strong>React , Node.js , Angular.js</strong></li>
+  <li>👨‍💻 I work with <strong>javascript and typescript</strong>.</li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
   <li>🎉 Fun fact I like to think of myself as a Unicorn Engineer. A Unicorn developer is Someone who designs and codes.</li>
   <li>👨‍💻 All of my software engineering projects are available at <strong><a href="https://github.com/Fisayo6969">https://github.com/Fisayo6969</a></strong>.</li>
