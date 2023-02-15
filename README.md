@@ -1,6 +1,6 @@
 
 <h2> Hi 👋, I'm Oluwafisayomi Agboola</h2>
-<p>A Frontend developer with an equal love for Art and Design from Lagos, Nigeria.</p>
+<p>I am a frontend developer with a passion for exploring the creative potential of technology. In addition to my proficiency in frontend development, I have also dabbled in generative AI arts, using my technical skills to produce unique and visually striking pieces. I am constantly seeking new ways to merge my expertise in technology with my passion for art and design.</p>
 
 
 
