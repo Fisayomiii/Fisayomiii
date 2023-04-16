@@ -1,7 +1,7 @@
 [![Fisayomi's GitHub Banner](https://res.cloudinary.com/fisayomithesedays/image/upload/v1681638748/samples/Portfolio/Twitter_header_-_1_ggiymp.png)](https://oluwafisayomi.netlify.app)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/999tweets_her)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/oluwafisayomi-agboola-232226230/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/fisayomiii/)
 [![Figma Badge](https://img.shields.io/badge/Figma-Profile-informational?style=flat&logo=figma&logoColor=white&color=1CA2F1)](https://www.figma.com/@Fisayomi)
 [![Figma Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=1CA2F1)](https://dev.to/fisayomiii)
 
